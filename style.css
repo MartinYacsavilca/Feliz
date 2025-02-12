@@ -83,11 +83,9 @@ h2{
   font-family: 'Times New Roman', Times, serif;
 }
 /*video*/
-.video1{
+iframe{
   margin-left: 20px;
   margin-top: 20px;
-  width: 75%;
-  height: 75%;
   border-width:3px;
   border-style: solid;
   color:#ffffff
